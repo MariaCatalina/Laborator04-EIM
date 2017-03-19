@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ContactsManager</string>
+    <string name="showAdditionalField">Show Additional fields</string>
+    <string name="hideAdditionalField">Hide Additional fields</string>
+    <string name="name">Name</string>
+    <string name="numberHint">1122334455</string>
+    <string name="emailHint">Email</string>
+    <string name="addressHint">Address</string>
+    <string name="saveBtnText">save</string>
+    <string name="cancelBtnText">cancel</string>
+    <string name="jobHint">Job Title</string>
+    <string name="companyHint">Company</string>
+    <string name="websiteHint">website</string>
+    <string name="IMHint">IM</string>
+</resources>
